@@ -1,8 +1,10 @@
-可以使用diff tag 来生成 高亮文本。
+使用diff tag
+```
 -紅
 +綠
 !橘
 #灰
+```
 ```diff
 - red
 + green
